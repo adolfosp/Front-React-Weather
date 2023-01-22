@@ -27,7 +27,8 @@
     }).catch((err) => console.log(err));
      ```
 ## Presentation of the application
-![gift_alpaca](https://user-images.githubusercontent.com/39220517/212215693-0848281c-4562-44d3-9de3-6c5b8a08724d.gif)
+![Apresentation of application](https://user-images.githubusercontent.com/39220517/213898665-2bfdb40e-86c1-4d99-8ccc-32cdec0e4b4b.gif)
+
 ## How to run?
 
 - Clone this repository
